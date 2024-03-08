@@ -1,2 +1,2 @@
-# ControlModern2024
+# ModernControl2024W
  University - Modern Control Projects
